@@ -1,0 +1,11 @@
+Inorder Traversal (LNR):
+
+Traverse the Left subtree.
+Visit the Node (current root).
+Traverse the Right subtree
+
+Preorder Traversal (NLR):
+
+Visit the Node (current root).
+Traverse the Left subtree.
+Traverse the Right subtree.
